@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1756743892927" clover="3.2.0">
+  <project timestamp="1756743892928" name="All files">
+    <metrics statements="43" coveredstatements="26" conditionals="35" coveredconditionals="18" methods="16" coveredmethods="9" elements="94" coveredelements="53" complexity="0" loc="43" ncloc="43" packages="1" files="2" classes="2"/>
+    <file name="book.js" path="C:\Praktikum PPL IIS\TestingEnvironment\Praktikum2-Projek\TugasPraktikum1_node.js\book.js">
+      <metrics statements="14" coveredstatements="9" conditionals="17" coveredconditionals="11" methods="3" coveredmethods="1"/>
+      <line num="3" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="9" type="cond" truecount="3" falsecount="1"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="9" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="13" count="8" type="stmt"/>
+      <line num="14" count="8" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="25" count="0" type="cond" truecount="0" falsecount="3"/>
+      <line num="31" count="1" type="stmt"/>
+    </file>
+    <file name="bookManager.js" path="C:\Praktikum PPL IIS\TestingEnvironment\Praktikum2-Projek\TugasPraktikum1_node.js\bookManager.js">
+      <metrics statements="29" coveredstatements="17" conditionals="18" coveredconditionals="7" methods="13" coveredmethods="8"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="7" type="stmt"/>
+      <line num="9" count="8" type="cond" truecount="1" falsecount="1"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="16" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="31" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="40" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="47" count="3" type="stmt"/>
+      <line num="51" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="60" count="0" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

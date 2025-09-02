@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1756743892927" clover="3.2.0">
-  <project timestamp="1756743892928" name="All files">
+<coverage generated="1756807456565" clover="3.2.0">
+  <project timestamp="1756807456566" name="All files">
     <metrics statements="43" coveredstatements="26" conditionals="35" coveredconditionals="18" methods="16" coveredmethods="9" elements="94" coveredelements="53" complexity="0" loc="43" ncloc="43" packages="1" files="2" classes="2"/>
     <file name="book.js" path="C:\Praktikum PPL IIS\TestingEnvironment\Praktikum2-Projek\TugasPraktikum1_node.js\book.js">
       <metrics statements="14" coveredstatements="9" conditionals="17" coveredconditionals="11" methods="3" coveredmethods="1"/>
